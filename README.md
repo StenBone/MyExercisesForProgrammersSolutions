@@ -2,7 +2,7 @@
 My solutions to the problems in Brian P. Hogan's book *Exercises for Programmers: 57 Challenges to Develop Your Coding Skills*
 
 ## The Book
-Brian P. Hogan's book can be found [here](https://pragprog.com/book/bhwb/exercises-for-programmers "Mr. Hogan's Book")
+Brian P. Hogan's book can be found [here](https://pragprog.com/book/bhwb/exercises-for-programmers "Mr. Hogan's Book").
 
 ## Purpose of this Repo
 Created repo to demonstrate coding ability and share solutions.

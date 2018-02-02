@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\From MIB\TipCalculator_Challenge1\src\TipCalculator_Challenge1.cpp">
+    <ClCompile Include="TipCalculator_Challenge1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

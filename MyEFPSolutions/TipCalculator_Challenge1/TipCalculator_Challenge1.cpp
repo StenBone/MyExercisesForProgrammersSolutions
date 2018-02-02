@@ -29,9 +29,9 @@ int main()
 	// CALC TIP
 	tip = billAmount * (tipRate * 0.01f);
 	tip = ceilf(tip * 100) / 100; // want to round up to the .0X place.
-								  // END CT
+	// END CT
 
-								  // CALC TOTAL
+	// CALC TOTAL
 	total = billAmount + tip;
 	// END CT
 

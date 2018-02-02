@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyEFPSolutions", "MyEFPSolutions\MyEFPSolutions.vcxproj", "{6167807B-ED66-48FE-954F-4D41F786B33A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TipCalculator", "TipCalculator\TipCalculator.vcxproj", "{C3372A20-0620-4E9F-B791-BD157002F371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Debug|x64.ActiveCfg = Debug|x64
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Debug|x64.Build.0 = Debug|x64
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Debug|x86.ActiveCfg = Debug|Win32
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Debug|x86.Build.0 = Debug|Win32
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Release|x64.ActiveCfg = Release|x64
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Release|x64.Build.0 = Release|x64
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Release|x86.ActiveCfg = Release|Win32
-		{6167807B-ED66-48FE-954F-4D41F786B33A}.Release|x86.Build.0 = Release|Win32
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Debug|x64.ActiveCfg = Debug|x64
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Debug|x64.Build.0 = Debug|x64
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Debug|x86.Build.0 = Debug|Win32
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Release|x64.ActiveCfg = Release|x64
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Release|x64.Build.0 = Release|x64
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Release|x86.ActiveCfg = Release|Win32
+		{C3372A20-0620-4E9F-B791-BD157002F371}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

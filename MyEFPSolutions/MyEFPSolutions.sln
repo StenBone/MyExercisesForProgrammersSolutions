@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TipCalculator", "TipCalcula
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TipCalculator_Challenge1", "TipCalculator_Challenge1\TipCalculator_Challenge1.vcxproj", "{F27CEE0D-DDEA-431B-85D9-8FB6421B32AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SayingHello", "SayingHello\SayingHello.vcxproj", "{F5AAA830-4789-4120-A82E-CC1B84565D3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F27CEE0D-DDEA-431B-85D9-8FB6421B32AA}.Release|x64.Build.0 = Release|x64
 		{F27CEE0D-DDEA-431B-85D9-8FB6421B32AA}.Release|x86.ActiveCfg = Release|Win32
 		{F27CEE0D-DDEA-431B-85D9-8FB6421B32AA}.Release|x86.Build.0 = Release|Win32
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Debug|x64.ActiveCfg = Debug|x64
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Debug|x64.Build.0 = Debug|x64
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Debug|x86.Build.0 = Debug|Win32
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Release|x64.ActiveCfg = Release|x64
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Release|x64.Build.0 = Release|x64
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Release|x86.ActiveCfg = Release|Win32
+		{F5AAA830-4789-4120-A82E-CC1B84565D3B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
